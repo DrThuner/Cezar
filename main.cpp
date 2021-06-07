@@ -4,7 +4,7 @@ using namespace std;
 
 void szyfr(string napis, int ile)
 {
-    char x;
+    string x;
     int a,b,c,d,t;
 
     for(int i=0; i<napis.length(); i++)
